@@ -1,4 +1,5 @@
 # 7º ano do ensino fundamental
+Caso não carregue o arquivo PDF, procure a opção download e abaixe o PDF em seu dispositivo.
 ## 2º Trimestre 
 :page_facing_up: [Primeira avaliação](https://github.com/RafaelDexter/Bento/blob/main/7ano/avaliacao1.pdf)
 

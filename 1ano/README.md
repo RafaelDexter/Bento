@@ -14,7 +14,7 @@
 
 :page_facing_up: [Primeira avaliação 3º trimestre](https://carrefourbr.vtexassets.com/arquivos/ids/9360498/29686818799646.jpg)
 
-:page_facing_up: [Segunnda avaliação 3º trimestre](https://carrefourbr.vtexassets.com/arquivos/ids/9360498/29686818799646.jpg)
+:page_facing_up: [Segunda avaliação 3º trimestre](https://carrefourbr.vtexassets.com/arquivos/ids/9360498/29686818799646.jpg)
 
 :page_facing_up: [Recuperação da primeira avaliação](https://carrefourbr.vtexassets.com/arquivos/ids/9360498/29686818799646.jpg)
 

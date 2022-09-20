@@ -10,3 +10,7 @@ Se você é aluno da 7º sérei do ensino fundamental clique :point_right: [aqui
 
 # Contato
 Caso precise falar comigo fora do horário de aula, mande-me um email: :point_right: rafaelsilva@escola.pr.gov.br :point_left:
+
+# Regulamento
+
+[Regulamento](https://github.com/RafaelDexter/Bento/blob/main/Regulamento.pdf)

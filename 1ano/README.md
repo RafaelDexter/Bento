@@ -1,8 +1,30 @@
 # 1º ano do ensino médio
-Avaliação
-Trabalho
-Lista
+## 2º trimestre
+:page_facing_up: [Primeira avaliação](https://github.com/RafaelDexter/Bento/blob/main/1ano/avaliacao1.pdf)
+
+:page_facing_up: [Lista de exercícios 1](https://github.com/RafaelDexter/Bento/blob/main/1ano/trab1.pdf)
+
+:page_facing_up: [Recuperação da primeira avaliação](https://carrefourbr.vtexassets.com/arquivos/ids/9360498/29686818799646.jpg)
+
+## 3º Trimestre
+
+:page_facing_up: [Primeira lista do 3º trimestre](https://github.com/RafaelDexter/Bento/blob/main/7ano/3tri-lista-1.pdf)
+
+:page_facing_up: [Segunda lista do 3º trimestre](https://carrefourbr.vtexassets.com/arquivos/ids/9360498/29686818799646.jpg)
+
+:page_facing_up: [Primeira avaliação 3º trimestre](https://carrefourbr.vtexassets.com/arquivos/ids/9360498/29686818799646.jpg)
+
+:page_facing_up: [Segunnda avaliação 3º trimestre](https://carrefourbr.vtexassets.com/arquivos/ids/9360498/29686818799646.jpg)
+
+:page_facing_up: [Recuperação da primeira avaliação](https://carrefourbr.vtexassets.com/arquivos/ids/9360498/29686818799646.jpg)
+
+:page_facing_up: [Recuperação da segunda avaliação](https://carrefourbr.vtexassets.com/arquivos/ids/9360498/29686818799646.jpg)
 
 # Material didático
 Segue o link do livro usado nas aulas:
-https://s3.amazonaws.com/pnld.ftd.com.br/wp-content/uploads/2021/08/06140002/Sistemas-e-Grandezas.pdf
+
+:page_facing_up: [Livro didático](https://s3.amazonaws.com/pnld.ftd.com.br/wp-content/uploads/2021/08/06140002/Sistemas-e-Grandezas.pdf)
+
+# Regulamento
+
+[Regulamento](https://github.com/RafaelDexter/Bento/blob/main/Regulamento.pdf)

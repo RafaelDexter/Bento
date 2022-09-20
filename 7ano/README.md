@@ -24,7 +24,7 @@ Caso não carregue o arquivo PDF, procure a opção download e abaixe o PDF em s
 # Material didático
 Segue o link do livro usado nas aulas:
 
-:books: [Livro didático](ttps://issuu.com/editoraftd/docs/a-conquista-da-matematica-mp-7_divulgacao)
+:books: [Livro didático](https://issuu.com/editoraftd/docs/a-conquista-da-matematica-mp-7_divulgacao)
 
 # Regulamento
 

@@ -5,7 +5,7 @@ Caso não carregue o arquivo PDF, procure a opção download e abaixe o PDF em s
 
 :page_facing_up: [Lista de exercícios 1](https://github.com/RafaelDexter/Bento/blob/main/7ano/trab1.pdf)
 
-:page_facing_up: [Recuperação da primeira avaliação](https://carrefourbr.vtexassets.com/arquivos/ids/9360498/29686818799646.jpg)
+:page_facing_up: [Recuperação da primeira avaliação](https://github.com/RafaelDexter/Bento/blob/main/7ano/resolvida.pdf)
 
 ## 3º Trimestre
 

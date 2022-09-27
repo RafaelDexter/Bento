@@ -8,7 +8,7 @@
 
 ## 3º Trimestre
 
-:page_facing_up: [Primeira lista do 3º trimestre](https://github.com/RafaelDexter/Bento/blob/main/7ano/3tri-lista-1.pdf)
+:page_facing_up: [Primeira lista do 3º trimestre](https://github.com/RafaelDexter/Bento/blob/main/1ano/lista1-3tri.pdf)
 
 :page_facing_up: [Segunda lista do 3º trimestre](https://carrefourbr.vtexassets.com/arquivos/ids/9360498/29686818799646.jpg)
 

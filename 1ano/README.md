@@ -31,29 +31,23 @@ Segue o link do livro usado nas aulas:
 
 [Regulamento](https://github.com/RafaelDexter/Bento/blob/main/Regulamento.pdf)
 
-##  Video Aulas
+##  3º Trimestre - Video Aulas ou Atividades
 :computer: [65](https://www.youtube.com/watch?v=s2SYbdIbuYw&ab_channel=EstudeEstat%C3%ADsticaOnline-AulaseTutoriais)
 
 :computer: [66](https://www.youtube.com/watch?v=fBQVdJRI7XI&ab_channel=Prof.MURAKAMI-MATEM%C3%81TICARAPIDOLA)
 
-:computer: [] ()
+:computer: [67](https://www.youtube.com/watch?v=EBvryp2QAPk&ab_channel=PortaldaMatem%C3%A1ticaOBMEP)
 
-:computer: [] ()
+:computer: [68](https://www.youtube.com/watch?v=eS7wYUc7ZjM&ab_channel=PedroTartuci)
 
-:computer: [] ()
+:computer: [69](https://wordwall.net/pt/resource/29755289/estat%C3%ADstica-an%C3%A1lise-de-gr%C3%A1ficos)
 
-:computer: [] ()
+:computer: [71](https://www.youtube.com/watch?v=2z6C27L3RVw&ab_channel=Prof.CamilaMonteiro-Matem%C3%A1tica)
 
-:computer: [] ()
+:computer: [80](https://wordwall.net/pt/resource/20928078/medidas-de-tend%C3%AAncia-central)
 
-:computer: [] ()
+:computer: [86](https://www.youtube.com/watch?v=N1cAwzHLkK4&ab_channel=CarladaCostaGuimar%C3%A3es)
 
-:computer: [] ()
+:computer: [87](https://www.youtube.com/watch?v=Lj1bvERpCdw&ab_channel=PortaldaMatem%C3%A1ticaOBMEP)
 
-:computer: [] ()
-
-:computer: [] ()
-
-:computer: [] ()
-
-:computer: [] ()
+:computer: [90](https://www.youtube.com/watch?v=T8LK01RibT4)

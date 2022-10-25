@@ -10,15 +10,15 @@
 
 :page_facing_up: [Primeira lista do 3º trimestre](https://github.com/RafaelDexter/Bento/blob/main/1ano/lista1-3tri.pdf)
 
-:page_facing_up: [Segunda lista do 3º trimestre](https://carrefourbr.vtexassets.com/arquivos/ids/9360498/29686818799646.jpg)
+:page_facing_up: [Segunda lista do 3º trimestre](https://github.com/RafaelDexter/Bento/blob/main/1ano/ProvaEspecial.pdf)
 
 :page_facing_up: [Primeira avaliação 3º trimestre](https://carrefourbr.vtexassets.com/arquivos/ids/9360498/29686818799646.jpg)
 
-:page_facing_up: [Segunda avaliação 3º trimestre](https://carrefourbr.vtexassets.com/arquivos/ids/9360498/29686818799646.jpg)
+:page_facing_up: [Segunda avaliação 3º trimestre](https://github.com/RafaelDexter/Bento/blob/main/1ano/ProvaEspecial.pdf)
 
 :page_facing_up: [Recuperação da primeira avaliação](https://carrefourbr.vtexassets.com/arquivos/ids/9360498/29686818799646.jpg)
 
-:page_facing_up: [Recuperação da segunda avaliação](https://carrefourbr.vtexassets.com/arquivos/ids/9360498/29686818799646.jpg)
+:page_facing_up: [Recuperação da segunda avaliação](https://github.com/RafaelDexter/Bento/blob/main/1ano/ProvaEspecial.pdf)
 
 # Material didático
 Segue o link do livro usado nas aulas:
